@@ -1,0 +1,33 @@
+﻿  StdAfx.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\shlobj.h(1151): warning C4091: 'typedef ': ignored on left of 'tagGPFIDL_FLAGS' when no variable is declared
+  MyDialog.cpp
+..\src\MyDialog.cpp(223): error C2065: 'ID_BUTTON_START': undeclared identifier
+..\src\MyDialog.cpp(223): error C2131: expression did not evaluate to a constant
+  ..\src\MyDialog.cpp(223): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  ..\src\MyDialog.cpp(223): note: see usage of 'ID_BUTTON_START'
+..\src\MyDialog.cpp(224): error C2065: 'ID_BUTTON_STOP': undeclared identifier
+..\src\MyDialog.cpp(224): error C2131: expression did not evaluate to a constant
+  ..\src\MyDialog.cpp(224): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  ..\src\MyDialog.cpp(224): note: see usage of 'ID_BUTTON_STOP'
+..\src\MyDialog.cpp(223): error C2051: case expression not constant
+..\src\MyDialog.cpp(224): error C2051: case expression not constant
+..\src\MyDialog.cpp(230): warning C4060: switch statement contains no 'case' or 'default' labels
+..\src\MyDialog.cpp(247): error C2065: 'IDC_LIST_LOGGING': undeclared identifier
+..\src\MyDialog.cpp(317): error C2065: 'IDC_CHECK_IS_MOBILE': undeclared identifier
+  MyButton.cpp
+..\src\MyButton.cpp(12): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+..\src\MyButton.cpp(20): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+..\src\MyButton.cpp(28): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+..\src\MyButton.cpp(36): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+..\src\MyButton.cpp(45): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+..\src\MyButton.cpp(54): error C2039: 'SetStatic': is not a member of 'CMyDialog'
+  d:\resources\samplescode\c++\win32xx810\samples\dialogdemo\src\MyDialog.h(57): note: see declaration of 'CMyDialog'
+  main.cpp
+  Hyperlink.cpp
+  DialogDemoApp.cpp
+  Generating Code...
